@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TopLeftColor">#FFEADDFF</color>
+    <color name="TopRightColor">#FFD0BCFF</color>
+    <color name="BottomLeftColor">#FFB69DF8</color>
+    <color name="BottomRightColor">#FFF6EDFF</color>
+</resources>
